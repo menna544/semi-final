@@ -27,10 +27,10 @@ const sign_up_btn = document.querySelector("#sign-up-btn");
 const container = document.querySelector(".container");
 
  function contact(){
-    location.replace("http://127.0.0.1:5500/contact.html?#")
+    location.replace("contact.html")
 }
 function goback(){
-    location.replace("http://127.0.0.1:5500/index.html#")
+    location.replace("index.html")
 }
 sign_up_btn.addEventListener("click", () => {
   container.classList.add("sign-up-mode");
