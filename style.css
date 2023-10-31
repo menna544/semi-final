@@ -274,11 +274,11 @@ form{
 @media screen and (max-width:982px) {
    
     #about p {
-        font-size: 8px;
+        font-size: 13px;
     }
 
     #about {
-        height: 100vh;
+        height: 110vh;
     }
     
     .row {
