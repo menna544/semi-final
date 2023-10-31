@@ -1,0 +1,38 @@
+[
+    {
+       "image":"images/affogato_0.jpg",
+       "title":"AFFOGATO",
+       "description":"Espresso poured on a vanilla ice cream. Served in a cappuccino cup.",
+       "price":"35"
+    },
+    {
+        "image":"images/americano.jpg",
+        "title":"AMERICANO (or ESPRESSO AMERICANO)",
+        "description":"Espresso with added hot water served in a cappuccino cup)",
+        "price":"45"
+     },
+     {
+        "image":"images/Cafe_Mocha (1).jpg",
+        "title":"CAFFÈ MOCHA",
+        "description":"A caffè latte with chocolate and whipped cream, made by pouring in cup ",
+        "price":"25"
+     },
+     {
+        "image":"images/espresso_con_panna.jpg",
+        "title":"ESPRESSO CON PANNA",
+        "description":"A shot of espresso topped with whipped cream. Served in an espresso  of panna.",
+        "price":"30"
+     },
+     {
+        "image":"images/Caffe_Latte.jpg",
+        "title":"CAPPUCCINO",
+        "description":"A coffee drink consisting of espresso and a milk foam mixture (drink size about 160). Served in a cappuccino cup.",
+        "price":"40"
+     },
+     {
+        "image":"images/latte_macchiato.jpg",
+        "title":"LATTE MACCHIATO",
+        "description":"Like a traditional caffè latte, but with a thicker layer of foam. Often made by pouring an espresso last into the milk .",
+        "price":"20"
+     }
+]
