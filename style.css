@@ -287,7 +287,7 @@ form{
         justify-content: center;
     }
     #brand {
-        height: 180vh;
+        height: 220vh;
 
     }
 
@@ -343,11 +343,11 @@ form{
     }
 
     #brand {
-        height: 200vh;
+        height: 240vh;
     }    
 }
 @media screen and (max-width:400px) {
     #menu{
-        height: 85vh;
+        height: 95vh;
     }
 }
